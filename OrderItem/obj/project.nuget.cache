@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CdSP1+zjg13cOpTtTeVaZagNWenwG3Vh392w6+7v8nItXIr09umMHHbY9kiW5Utq3zWPrCA7ODchoF9gpSplPA==",
+  "dgSpecHash": "qxxphIHOF9aC7LsNk4li9d6kcSu08ko+2blr+G36XFzqch7L7HYT2v6n3wTaWf/JLZwMlUTSD5k/CPZkCm9qLA==",
   "success": true,
-  "projectFilePath": "E:\\All C# Projects\\OrderItem\\OrderItem\\OrderItem.csproj",
+  "projectFilePath": "E:\\All C# Projects\\truYum\\OrderItem\\OrderItem\\OrderItem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\romik\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\romik\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

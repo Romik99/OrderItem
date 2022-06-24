@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\All C# Projects\\OrderItem\\OrderItem\\OrderItem.csproj": {}
+    "E:\\All C# Projects\\truYum\\OrderItem\\OrderItem\\OrderItem.csproj": {}
   },
   "projects": {
-    "E:\\All C# Projects\\OrderItem\\OrderItem\\OrderItem.csproj": {
+    "E:\\All C# Projects\\truYum\\OrderItem\\OrderItem\\OrderItem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\All C# Projects\\OrderItem\\OrderItem\\OrderItem.csproj",
+        "projectUniqueName": "E:\\All C# Projects\\truYum\\OrderItem\\OrderItem\\OrderItem.csproj",
         "projectName": "OrderItem",
-        "projectPath": "E:\\All C# Projects\\OrderItem\\OrderItem\\OrderItem.csproj",
+        "projectPath": "E:\\All C# Projects\\truYum\\OrderItem\\OrderItem\\OrderItem.csproj",
         "packagesPath": "C:\\Users\\romik\\.nuget\\packages\\",
-        "outputPath": "E:\\All C# Projects\\OrderItem\\OrderItem\\obj\\",
+        "outputPath": "E:\\All C# Projects\\truYum\\OrderItem\\OrderItem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\romik\\AppData\\Roaming\\NuGet\\NuGet.Config",
